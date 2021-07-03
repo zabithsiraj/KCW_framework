@@ -11,5 +11,6 @@ echo "[+] ##############...................45%"
 echo "[+] ########################.........70%"
 echo "[+] ################################100%"
 
-read -p  "hello $USER!! Are You Sure Want To Continue??"
+read -p  "hello $USER!! Are You Sure Want To Continue??"  yes
+
 keralacyberwarriors
