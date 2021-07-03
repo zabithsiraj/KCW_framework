@@ -2,8 +2,8 @@
 wget https://zabith.ml/contents/teamkcw.AppImage
 chmod 777 teamkcw.AppImage
 chmod 777 hackterminal
-sudo mv $PWD/teamkcw.AppImage /usr/bin/keralacyberwarriors
-sudo mv $PWD/hackterminal /usr/bin/kcw
+sudo mv /$PWD/teamkcw.AppImage /usr/bin/keralacyberwarriors
+sudo mv /$PWD/hackterminal /usr/bin/kcw
 
 echo "kcw framework successfully installed"
 echo "type kcw to start the framework at anytime anywhare!!"
