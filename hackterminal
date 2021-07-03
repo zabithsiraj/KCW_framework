@@ -1,0 +1,15 @@
+
+#! /bin/bash
+figlet -f slant   KCW
+echo "[+] OPEN TOR-SOCKS....."
+echo "[+] SUCCESS "
+echo "[+] CONNECTING TO KERALA CYBER WARRIORS "
+echo "[+] #.................................1%"
+echo "[+] ###..............................13%"
+echo "[+] ########.........................36%"
+echo "[+] ##############...................45%"
+echo "[+] ########################.........70%"
+echo "[+] ################################100%"
+
+read -p  "hello $USER!! Are You Sure Want To Continue??"
+keralacyberwarriors
